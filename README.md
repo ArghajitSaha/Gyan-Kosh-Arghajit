@@ -10,7 +10,6 @@ Welcome to the Gyan Kosh repository! This repository contains essential componen
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 #### Project Overview
 
