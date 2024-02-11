@@ -31,36 +31,6 @@ Gyan Kosh is a library management system designed to streamline the management o
 - **Sidebar Navigation**: The project includes a sidebar navigation system for easy access to different sections of the application.
 - **Typewrite Animation**: Engage users with a typewrite animation feature, providing dynamic and interactive elements within the interface.
 
-#### Installation
-
-To install and run the project locally, follow these steps:
-
-1. Clone the repository to your local machine using the following command:
-
-   ```
-   git clone https://github.com/ArghajitSaha/Gyan-Kosh-Arghajit.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```
-   cd Gyan-Kosh-Arghajit
-   ```
-
-3. Install dependencies:
-
-   ```
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```
-   npm start
-   ```
-
-5. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to view the project.
-
 #### Usage
 
 Refer to the project's documentation for instructions on how to use Gyan Kosh effectively.
